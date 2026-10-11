@@ -1,7 +1,8 @@
 # binops-hs
 
 [![Language](https://img.shields.io/badge/Language-Haskell-5e5086)](t1.hs)
-[![Status](https://img.shields.io/badge/Status-Prototype-orange)]()
+[![Status](https://img.shields.io/badge/Status-Academic%20Project-blue)]()
+[![GHC](https://img.shields.io/badge/GHC-9.x-5e5086)]()
 
 A small Haskell program with recursive functions that manipulate binary values represented as lists of booleans.
 
